@@ -1,0 +1,17 @@
+.principal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.container-texto{
+    margin: 2%;
+    font-size: 20px;
+    color: #fff;
+}
+
+.img_ufopa{
+    
+}
+
